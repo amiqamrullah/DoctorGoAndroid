@@ -1,0 +1,15 @@
+import Header from './Header'
+import BottomNavigator from './BottomNavigator'
+import HomeProfile from './HomeProfile'
+import DoctorCatergory from './DoctorCategory'
+import RatedDoctor from './RatedDoctor'
+import NewsItem from './NewsItem'
+import List from './List'
+import ListHospital from './ListHospital'
+import Chatitem from './Chatitem'
+import InputChat from './InputChat'
+import Profile from  './Profile'
+import ProfileItem from './ProfileItem'
+import Loading from './Loading'
+
+export { Header, BottomNavigator, HomeProfile, DoctorCatergory, RatedDoctor, NewsItem, List, ListHospital, Chatitem, InputChat, Profile, ProfileItem, Loading };

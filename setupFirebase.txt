@@ -1,0 +1,19 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.2.6/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCuoeX5LUAmrb33HiZvOflyECAmLA6PITY",
+    authDomain: "doctorgo-74dd2.firebaseapp.com",
+    projectId: "doctorgo-74dd2",
+    storageBucket: "doctorgo-74dd2.appspot.com",
+    messagingSenderId: "6407833447",
+    appId: "1:6407833447:web:90e402ffe35ef0938591c2"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "category": "Dokter Umum"
+    },
+    {
+      "id": 2,
+      "category": "Psikiater"
+    },
+    {
+      "id": 3,
+      "category": "Dokter Obat"
+    },
+    {
+      "id": 4,
+      "category": "Dokter Anak"
+    },
+    {
+      "id": 5,
+      "category": "Dokter Mata"
+    },
+    {
+      "id": 6,
+      "category": "Dokter Kandungan"
+    },
+    {
+      "id": 7,
+      "category": "Dokter Jantung"
+    }
+  ]
+  
+}
